@@ -27,7 +27,6 @@ class Amazon extends Strategy{
                 amazonProduct.rating = $(element).find('.a-icon-star-small .a-icon-alt').text()
                 amazonProduct.numReviews = $(element).find('div div.a-row.a-size-small span a.s-link-style span').text()
                 amazonProduct.imageUrl = $(element).find('div div a img.s-image').attr('src')
-                console.log(amazonProduct)
 
                 products.push(amazonProduct)
             })
