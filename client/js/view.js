@@ -60,6 +60,7 @@ class View{
                         <p>Nota: ${rating}</p>
                         <p>Avaliações: ${item.numReviews}</p>
                     </div>
+
                 </div>
             </li>`
 
