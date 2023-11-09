@@ -38,6 +38,7 @@ class View{
             try {
                 let data = []
                 let keyword = this.el.productName.value.trim()
+                if (!keyword.trim()) return
                 const { result } = this.el
                 keyword = keyword.replace(/\s+/g, '+')
 
