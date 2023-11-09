@@ -2,7 +2,7 @@
 
 ## Tabela de Conteúdo
 - [Overview](#overview)
-  - [Ferramentas utilizadas](#ferramentas)
+  - [Ferramentas](#ferramentas-utilizadas)
   - [Screenshot](#screenshot)  
 - [Documentação](#documentação)
   - [Instalação](#instalação)
