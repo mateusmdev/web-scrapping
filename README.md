@@ -1,10 +1,13 @@
-# products-api-nodejs
+# web-scrapping
 
 ## Tabela de Conteúdo
 - [Overview](#overview)
-  - [Screenshot](#screenshot) 
+  - [Ferramentas utilizadas](#ferramentas)
+  - [Screenshot](#screenshot)  
 - [Documentação](#documentação)
   - [Instalação](#instalação)
+    - [Docker](#docker)
+    - [Javascript](#javascript)
   - [Rotas](#rotas)
     - [Scraper](#scraper)
 
