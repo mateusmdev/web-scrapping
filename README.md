@@ -15,6 +15,8 @@
 
 Realiza extração de dados dos produtos encontrados no site da Amazon. A extração de dados é disponibilizada por meio de uma API Rest utilizando Node.js, na qual é consumida por uma página HTML atráves de uma requisição ajax utilizando fetch. Os dados retornados são exibidos nessa página HTML.
 
+<strong>ATENÇÃO:</strong> Dependendo da data que você está rodando o projeto, pode ser que não funcione devido a mudanças que podem ocorrer na estrutura DOM da página HTML da Amazon.
+
 Um resumo do projeto:
 <ul>
   <li>Realizar uma requisição HTTP através da rota de uma API utilizando o método GET</li>
